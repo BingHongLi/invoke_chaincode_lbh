@@ -1,0 +1,6 @@
+[submodule "chaincode_basic_tutorial_lbh"]
+	path = chaincode_basic_tutorial_lbh
+	url = https://github.com/BingHongLi/chaincode_basic_tutorial_lbh.git
+[submodule "fabric-samples"]
+	path = fabric-samples
+	url = https://github.com/BingHongLi/fabric-samples.git

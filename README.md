@@ -7,7 +7,7 @@ Go 1.9.6
     git clone https://github.com/BingHongLi/invoke_chaincode_lbh.git
 
 ##### 下載子專案
-    cd chaincode_invoke_chaincode_lbh
+    cd invoke_chaincode_lbh
     git submodule update --init --recursive
 
 ##### 複製合約進入環境內
@@ -17,7 +17,7 @@ Go 1.9.6
 #####  啟用環境
     cd fabric-samples/basic-network
     sh start.sh
-    docker-composer up -d cli
+    docker-compose up -d cli
 
 ## 合約準備
 

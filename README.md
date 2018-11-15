@@ -4,7 +4,7 @@ Go 1.9.6
 ## 教材準備  
 
 ##### 下載專案
-    git clone https://github.com/BingHongLi/chaincode_invoke_chaincode_lbh.git
+    git clone https://github.com/BingHongLi/invoke_chaincode_lbh.git
 
 ##### 下載子專案
     cd chaincode_invoke_chaincode_lbh
